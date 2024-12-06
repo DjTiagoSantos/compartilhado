@@ -1,1 +1,1 @@
-# compartilhado
+Para arquivos compartilhados
